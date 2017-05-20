@@ -1,0 +1,121 @@
+body{
+	font-family: "Arial";
+}
+
+.laboratoria, .transformacion{
+	background-color: yellow;	
+	padding-bottom: 20px;
+	padding-left: 5px;
+	padding-top: 5px;
+}
+
+.es{
+	background-color: red;
+	padding-bottom: 20px;
+	padding-left: 5px;	
+	padding-top: 5px;	
+	border: 1px solid black;
+}
+
+.laboratoria1, .transformacion1{
+	display: block;
+	width: 200px;
+	background-color: yellow;	
+	padding-bottom: 20px;
+	padding-left: 5px;
+	padding-top: 5px;
+	margin:10px;
+}
+
+.es1{
+	display: block;
+	width: 200px;	
+	background-color: red;
+	padding-bottom: 20px;
+	padding-left: 5px;
+	padding-top: 5px;		
+	margin:10px;	
+}
+
+.laboratoria2, .transformacion2{	
+	display: inline;	
+	background-color: yellow;
+	padding: 5px;
+}
+
+.es2{
+	display: inline;	
+	background-color: red;	
+	padding: 5px;	
+}
+
+
+.laboratoria3, .transformacion3{
+	width: 200px;
+	height: 100px;		
+	display: inline-block;
+	background-color: yellow;
+	padding: 5px;
+	margin: 5px;
+}
+
+.es3{	
+	display: inline-block;	
+	background-color: red;	
+	padding: 5px;
+	width: 200px;
+	height: 100px;	
+	margin: 5px;				
+}
+
+span{
+	color: white;
+	text-align: center;
+}
+
+
+.uno, .siete{
+	display: block;
+	background-color: blue;
+	width: 30px;
+	height: 30px;
+	padding: 3.5%;	
+	margin: 20px 0 20px 10px;	
+}
+
+.varios{
+	display: block;	
+	width: 380px;
+	height: 120px;	
+	background-color: red;
+	padding: 2%;
+	margin: 10px 0 20px 10px;		
+}
+
+.dos, .tres, .cuatro{
+	display: inline-block;
+	background-color: blue;	
+	padding: 30px;
+	width: 60px;
+	height: 60px;			
+}
+
+.varios-dos{
+	display: block;	
+	width: 380px;
+	height: 120px;	
+	padding-left: 10px;
+	margin: 10px 0 20px 0;	
+}
+
+
+.cinco, .seis{
+	display: inline-block;	
+	background-color: blue;	
+	padding: 30px;
+	width: 60px;
+	height: 60px;
+
+}
+
+
